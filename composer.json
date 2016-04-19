@@ -1,0 +1,15 @@
+{
+    "name": "solido/dic",
+    "description": "Small dependency injection container, based on Pimple by SensioLabs.",
+    "version": "0.1.0",
+    "authors": [
+        {
+            "name": "Manel R. Doménech",
+            "email": "manel@manel.io"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": { "Solido\\": "src/Solido" }
+    }
+}
